@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammadmohsin123
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front end web development
+- 👀 I’m FullStack web developer
+- 🌱 I’m currently working on different projects
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me mohsin5720@outlook.com
 
