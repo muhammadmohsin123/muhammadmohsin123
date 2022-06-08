@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muhammadmohsin123
-- 👀 I’m FullStack web developer
+- 👀 I’m FullStack / MERN Stack web developer
 - 🌱 I’m currently working on different projects
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me mohsin5720@outlook.com
